@@ -1,7 +1,7 @@
 ---
 title: HOLA
-date: Invalid date
-lastmod: Invalid date
+date: '2018-05-13T00:00:00+02:00'
+lastmod: '2018-05-13T00:00:00+02:00'
 draft: false
 tags:
   - academic
